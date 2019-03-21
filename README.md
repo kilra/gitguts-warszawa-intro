@@ -12,4 +12,8 @@ MIT 2
 
 ## Autor
 
-infoShare Academy
+stworzone przeze mnie.
+
+## Koniec
+
+To już ostatnie zadanie - wytrwałeś.
