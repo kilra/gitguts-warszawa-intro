@@ -8,7 +8,7 @@ Nie ma żadnych.
 
 ## Licencja
 
-MIT
+Apache Common
 
 ## Autor
 
