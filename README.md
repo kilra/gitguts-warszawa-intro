@@ -8,7 +8,7 @@ Nie ma żadnych.
 
 ## Licencja
 
-Apache Commons 2  coś tam
+MIT 2
 
 ## Autor
 
